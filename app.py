@@ -1,4 +1,5 @@
 import streamlit as st
+pip install streamlit
 from transformers import AutoModelForQuestionAnswering, AutoTokenizer, pipeline
 
 # Load model and tokenizer
